@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchvision>=0.15.0
+earthengine-api>=0.1.350
+numpy>=1.23.5
+opencv-python>=4.7.0
+matplotlib>=3.7.1
+tqdm>=4.65.0
