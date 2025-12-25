@@ -36,4 +36,4 @@ Comparison: (Left) Original 10m Sentinel-2 Input. (Right) EtherPixel 2.5m Neural
 2. `pip install -r requirements.txt`
 3. Open `notebooks/EtherPixel_Core.ipynb` to run inference.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guniika/EtherPixel/blob/main/etherpixel.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guniika/EtherPixel/blob/main/notebooks/etherpixel.ipynb)
